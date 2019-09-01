@@ -31,12 +31,12 @@ Download the files and open the project from within [Android Studio](https://dev
       <td align="center"><a target="_blank" href="./images/Screenshot_1.png"><img src="./images/Screenshot_1.png" alt="Screenshot 1" style="max-width:100%;"></a></td>
       <td align="center"><a target="_blank" href="./images/Screenshot_2.png"><img src="./images/Screenshot_2.png" alt="Screenshot 2" style="max-width:100%;"></a></td>
     </tr>
-    <tr>
-    </tr>
-    <tr>
-      <th align="center">Book details</th>  
-      <th align="center">Edit book details</th>
-    </tr>
+    <thead>
+      <tr>
+        <th align="center">Book details</th>  
+        <th align="center">Edit book details</th>
+      </tr>
+    </thead>
     <tr>
       <td align="center"><a target="_blank" href="./images/Screenshot_3.png"><img src="./images/Screenshot_3.png" alt="Screenshot 3" style="max-width:100%;"></a></td>
       <td align="center"><a target="_blank" href="./images/Screenshot_4.png"><img src="./images/Screenshot_4.png" alt="Screenshot 4" style="max-width:100%;"></a></td>
