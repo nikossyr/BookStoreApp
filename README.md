@@ -1,4 +1,4 @@
-# BookStoreApp
+# Book Store App
 Android App that keeps track of the Book Inventory of a Book store. Each book is catalogued in a DB with adiitional info (author, title, stock, price, supplier).The DB is customizable within the app.
 
 ### Prerequisites
