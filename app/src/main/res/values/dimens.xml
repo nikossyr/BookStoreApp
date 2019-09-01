@@ -1,0 +1,12 @@
+<resources>
+    <!-- Margin around the floating action button in CatalogActivity -->
+    <dimen name="fab_margin">16dp</dimen>
+
+    <!-- Common margin value used throughout the app -->
+    <dimen name="activity_margin">16dp</dimen>
+
+    <!-- Margin value used on bottom of ListView when there is a FloatingActionButton -->
+    <dimen name="listview_fab_margin">72dp</dimen>
+
+</resources>
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1976d2</color>
+    <color name="colorPrimaryDark">#004ba0</color>
+    <color name="colorAccent">#63a4ff</color>
+
+    <!-- Primary color for the editor -->
+    <color name="editorColorPrimary">#1565c0</color>
+
+    <!-- Primary dark color for the editor -->
+    <color name="editorColorPrimaryDark">#003c8f</color>
+    <!-- Color for line that separates views in activity_editor-->
+    <color name="lineColor">#E0E0E0</color>
+</resources>
